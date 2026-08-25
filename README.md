@@ -30,3 +30,17 @@ O objetivo é oferecer uma ferramenta **simples, intuitiva e estruturada** para 
 - Código 100% modularizado em **sub-rotinas (funções)**
 
 ---
+
+## 👉🏻 Integrantes
+
+Enzo Franco Rodrigues da Silva – RM: 569652
+
+Matheus Soares Amorim – RM: 569422
+
+Renato Mendes Ruiz – RM: 569597
+
+Gustavo Roberto Martins - RM: 568987
+
+Julia Moreira Rodrigues – RM: 566706
+
+---
